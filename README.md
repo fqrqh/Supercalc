@@ -12,4 +12,6 @@
 </p>
 
 <p align="center">Supercalc is a Small Calculator in the Terminal made with C++ using Visual studio</p>
--
+## Fonctionnalités
+- Fonction 1
+- Fonction 2
