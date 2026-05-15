@@ -12,7 +12,7 @@
 </p>
 
 <h2 align="center">A Small Calculator</h2>
----
+
 
 ## Supercalc
 
