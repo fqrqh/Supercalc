@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Build_With-VisualStudio-purple">
 
 </p>
+
+<h2 align="center">A Small Calculator</h2>
 ---
 
 ## Supercalc
