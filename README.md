@@ -5,10 +5,8 @@
 <h2 align="center">A Small Calculator</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laguage-C%2B%2B-red
-">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-red">
 </p>
-
 ---
 
 ## Supercalc
