@@ -3,7 +3,8 @@
   A Small Calculator.
 
 </p>
-https://img.shields.io/badge/Laguage-C%2B%2B-red
+![Static Badge](https://img.shields.io/badge/Laguage-C%2B%2B-red)
+
 
 ---
 
