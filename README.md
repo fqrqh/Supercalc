@@ -11,5 +11,5 @@
 
 </p>
 
-<h2 align="center">A Small Calculator</h2>
+<p align="center">A Small Calculator</p>
 -
