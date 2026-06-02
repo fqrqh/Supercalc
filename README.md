@@ -40,7 +40,6 @@ And that All!
      ```
 
 3. **Watch the little demo!**
-   - Here's a little demo:
 
    ![Supercalc Demo](https://raw.githubusercontent.com/fqrqh/Supercalc/refs/heads/main/ezgif-2024c69fd30efc80%20(2).gif)
 6. **H**
