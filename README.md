@@ -40,7 +40,7 @@ And that All!
      ```
 
 3. **Watch the little demo!**  
-   - here a little demo **[here](link**
+   - here a little demo ** ![](https://github.com/fqrqh/Supercalc/blob/main/ezgif-2024c69fd30efc80.mp4)
 
 6. **H**
   - Run the main script:
