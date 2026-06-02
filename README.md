@@ -21,16 +21,11 @@
 **This project is a Simple Calculator built with C++, SimpleCalc can do basic mathematics operations for now such as + / *. This project is NOT fully completed so expect bugs. It was compiled in VS Code Editor.**
 
 ## Requirements
-customtkinter
+ftxui
 
+Visual C++ Redistributable
 
-pwinauto
-time
-psutil
-os
-pillow
-platform (info)
-Python 3.6+
+And that All!
 
 ## 📌Installation
 
@@ -41,7 +36,7 @@ Python 3.6+
    - Clone the forked repository to your local machine:
      ```bash
      git clone <URL>
-     cd WindowsUtility
+     cd SuperCalc
      ```
 3. **Install Requirements**
 
@@ -53,7 +48,7 @@ Python 3.6+
 6. **Run the Tool**
   - Run the main script:
     ```bash
-    python windowsutility.py
+    Launch 
     ```
   - Your Done !!!
 
