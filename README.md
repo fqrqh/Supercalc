@@ -22,6 +22,8 @@
 
 ## Requirements
 customtkinter
+
+
 pwinauto
 time
 psutil
