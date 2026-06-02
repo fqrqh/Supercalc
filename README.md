@@ -45,7 +45,7 @@ And that All!
 6. **H**
   - Run the main script:
     ```bash
-    [Launch ](https://github.com/fqrqh/Supercalc/blob/main/ezgif-2024c69fd30efc80.mp4)
+    Launch the SuperCalc file
     ```
   - Your Done !!!
 
