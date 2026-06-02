@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Python-yellow">
+  <img src="https://img.shields.io/badge/Language-C++-purple">
   <img src="https://img.shields.io/badge/Platform-Windows-blue">
   <img src="https://img.shields.io/badge/Build_With-VisualStudioCode-blue">
 
