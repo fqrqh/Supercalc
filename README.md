@@ -45,9 +45,13 @@ And that All!
 6. **H**
   - Run the main script:
     ```bash
-    Launch the SuperCalc file
+    Launch SuperCalc
     ```
   - Your Done !!!
+
+## ⛔ THIS PROJECT IS UNFINISHED AND WILL BE FINISHED SOON EXPECTS BUG ⛔
+
+To build this project further and enhance its capabilities, a strong understanding of the following areas is recommended:
 
 ## 📌Contributing
 
@@ -70,9 +74,9 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 To build this project further and enhance its capabilities, a strong understanding of the following areas is recommended:
 
-### 🐍 Python Fundamentals
-Python is the core language behind this project. A solid grasp of syntax, control flow, functions, and error handling will help you modify and extend the assistant’s functionality.  
-👉 [Python Programming Course](https://www.mygreatlearning.com/academy/premium/master-python-programming)
+
+### C++ Fundamentals
+C++ is the core language behind this project. A solid grasp of syntax, control flow, functions, and error handling will help you modify and extend the assistant’s functionality.  
 
 ---
 
