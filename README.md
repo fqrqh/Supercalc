@@ -6,7 +6,7 @@
 <h2 align="center">SuperCalc</h2>
 
 <p align="center">
-  <img width="530" height="333" alt="image" src="https://raw.githubusercontent.com/fqrqh/Supercalc/refs/heads/main/imgg.png" />
+  <img width="530" height="333" alt="image" src="https://raw.githubusercontent.com/fqrqh/Supercalc/refs/heads/main/image.png" />
 </p>
 
 <p align="center">
