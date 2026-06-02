@@ -38,14 +38,11 @@ And that All!
      git clone <URL>
      cd SuperCalc
      ```
-3. **Install Requirements**
 
-   - Install all the requirements given in **[requirements.txt](link)** by running the command `pip install -r requirements.txt`
+3. **Watch the little demo!**  
+   - here a little demo **[here](link**
 
-5. **Install Psutil**  
-   - Follow the instructions given **[here](link**
-
-6. **Run the Tool**
+6. **H**
   - Run the main script:
     ```bash
     Launch 
